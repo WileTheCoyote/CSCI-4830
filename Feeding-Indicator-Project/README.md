@@ -16,15 +16,15 @@ Preliminary Concept:
 
    We will need:
 
-    Raspberry Pi	 - I will be using a Raspberry Pi 1 model B 
-    3 LED Lights (each of a different color) - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
-    Breadboard - to experiment with the circuit design
-    1 330ohm resistor - I used 3 1000ohm in parallel 
-    Tilt Sensor - I used a LinkSprite Tile Module 
-    Jumper Lead Wires - I used both female to male and male to male 
-    Small ProtoBoard - For final circuit design 
-    Project Box - A medium sized project box to enclose components 
-    Power Source - Either a external battery pack or wall mount 
+    Raspberry Pi	 	- I will be using a Raspberry Pi 1 model B 
+    3 LED Lights (each of a different color) 	- I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
+    Breadboard 	- to experiment with the circuit design
+    1 330ohm resistor 	- I used 3 1000ohm in parallel 
+    Tilt Sensor 	- I used a LinkSprite Tile Module 
+    Jumper Lead Wires 	- I used both female to male and male to male 
+    Small ProtoBoard 	- For final circuit design 
+    Project Box 	- A medium sized project box to enclose components 
+    Power Source 	- Either a external battery pack or wall mount 
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
    has just eaten; the light will eventually turn orange, indicating the dog has now gone 12 hours without being fed. After another 12 hours (indicating 24 hours has 
