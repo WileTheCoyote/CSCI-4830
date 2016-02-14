@@ -16,9 +16,9 @@ Preliminary Concept:
 
    We will need:
 
-    Raspberry Pi	 	- I will be using a Raspberry Pi 1 model B 
+    Raspberry Pi	 	                       - I will be using a Raspberry Pi 1 model B 
     3 LED Lights (each of a different color) 	- I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
-    Breadboard 	   - to experiment with the circuit design
+    Breadboard 	                               - to experiment with the circuit design
     1 330ohm resistor 	- I used 3 1000ohm in parallel 
     Tilt Sensor 	- I used a LinkSprite Tile Module 
     Jumper Lead Wires 	- I used both female to male and male to male 
