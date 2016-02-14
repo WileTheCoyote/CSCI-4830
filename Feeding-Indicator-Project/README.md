@@ -38,7 +38,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
      
     Green - Dog is happy 		- "Has just recently been fed"
     Orange - Dog is hungry 		- "Has not been fed for 12 hours"
-    Red - Dog is Starving 		- " Has not been fed for 24 hours"
+    Red - Dog is Starving 		- "Has not been fed for 24 hours"
 
 **Possible Extra Features:**
 
