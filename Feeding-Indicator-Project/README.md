@@ -38,6 +38,7 @@ Preliminary Concept:
     Red - Dog is Starving - " Has not been fed for 24 hours"
 
 Possible Extra Features:
-     Could attach a speaker to siren after light has been red for 12 hours
-     Could attach WiFi dongle to send text alert for similar circumstance
+
+    Could attach a speaker to siren after light has been red for 12 hours
+    Could attach WiFi dongle to send text alert for similar circumstance
    
