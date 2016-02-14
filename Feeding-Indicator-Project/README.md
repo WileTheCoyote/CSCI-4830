@@ -1,7 +1,7 @@
 # CSCI-4830
 1st Project for CSCI 4830
 
-_Feeding Schedule Lights - "Lights that indicate whether your pet has been fed"_
+**_Feeding Schedule Lights - "Lights that indicate whether your pet has been fed"_**
 
 **Problem Description:**
 
@@ -12,9 +12,9 @@ i.e. Many people often feed their dog one or two times per day. Some have more p
 
 In my case our dog, Max, "should" get fed twice per day. But with a family of six, he inevitably gets fed more or sometimes less. 
 
-Preliminary Concept:
+**Preliminary Concept:**
 
-   We will need:
+   	**We will need:**
 
     Raspberry Pi	 	                       	- I will be using a Raspberry Pi 1 model B 
     3 LED Lights (each of a different color) 	- I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
@@ -37,7 +37,7 @@ Preliminary Concept:
     Orange - Dog is hungry - "Has not been fed for 12 hours"
     Red - Dog is Starving - " Has not been fed for 24 hours"
 
-Possible Extra Features:
+**Possible Extra Features:**
 
     Could attach a speaker to siren after light has been red for 12 hours
     Could attach WiFi dongle to send text alert for similar circumstance
