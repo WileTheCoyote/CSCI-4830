@@ -27,7 +27,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
     Power Source 								- Either a external battery pack or wall mount 
     Soldering Iron and Solder
     
-    ![Alt text] /var/folders/cs/_7ffbxg93vs90ms1qt4l8ldm0000gp/T/com.apple.Preview/com.apple.Preview.PasteboardItems/IMG_0328.jpg
+    ![Alt text] /Users/OldMacbook/Desktop/IMG_0328.jpg
 
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
