@@ -36,9 +36,9 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
    Note - The light should never turn directly from green to red and the 
    callback function can turn the light to green in any light cycle, including green. 
      
-    Green 		- Dog is happy - "Has just recently been fed"
-    Orange 		- Dog is hungry - "Has not been fed for 12 hours"
-    Red		 - Dog is Starving - " Has not been fed for 24 hours"
+    Green - Dog is happy 		- "Has just recently been fed"
+    Orange - Dog is hungry 		- "Has not been fed for 12 hours"
+    Red - Dog is Starving 		- " Has not been fed for 24 hours"
 
 **Possible Extra Features:**
 
