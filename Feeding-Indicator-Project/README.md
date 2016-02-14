@@ -27,7 +27,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
     Power Source 								- Either a external battery pack or wall mount 
     Soldering Iron and Solder
     
-    ![Alt text] (CSCI-4830/Feeding-Indicator-Project/IMG_0328.jpg)
+    ![Alt text] (https://github.com/WileTheCoyote/CSCI-4830/blob/master/Feeding-Indicator-Project/IMG_0328.jpg)
 
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
