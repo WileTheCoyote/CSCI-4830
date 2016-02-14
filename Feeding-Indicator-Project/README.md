@@ -25,6 +25,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
     Small ProtoBoard 							- For final circuit design 
     Project Box 								- A medium sized project box to enclose components 
     Power Source 								- Either a external battery pack or wall mount 
+    Soldering Iron and Solder
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
    has just eaten; the light will eventually turn orange, indicating the dog has now gone 12 hours without being fed. After another 12 hours (indicating 24 hours has 
