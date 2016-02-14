@@ -17,10 +17,10 @@ Preliminary Concept:
    We will need:
 
     Raspberry Pi                                                 - I will be using a Raspberry Pi 1 model B 
-   <br /> 3 LED Lights (each of a different color)        - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
+    3 LED Lights (each of a different color)        - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
    <br /> Breadboard                                                   - to experiment with the circuit design
-   <br /> 1 330ohm resistor                                         - I used 3 1000ohm in parallel 
-   <br /> Tilt Sensor                                                     - I used a LinkSprite Tile Module 
+   <br />1 330ohm resistor                                         - I used 3 1000ohm in parallel 
+   <br />Tilt Sensor                                                     - I used a LinkSprite Tile Module 
    <br /> Jumper Lead Wires                                       - I used both female to male and male to male 
    <br /> Small ProtoBoard                                          - For final circuit design 
    <br /> Project Box                                                    - A medium sized project box to enclose components 
@@ -33,7 +33,7 @@ Preliminary Concept:
    callback function can turn the light to green in any light cycle, including green. A bouncetime parameter will be set to keep the sensor from being triggered more than
    once in a 30 second time frame.
   
-   <br /> Green - Dog is happy - "Has just recently been fed"
+   Green - Dog is happy - "Has just recently been fed"
    <br /> Orange - Dog is hungry - "Has not been fed for 12 hours"
    <br /> Red - Dog is Starving - " Has not been fed for 24 hours"
 
