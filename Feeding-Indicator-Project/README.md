@@ -29,7 +29,9 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
    has just eaten; the light will eventually turn orange, indicating the dog has now gone 12 hours without being fed. After another 12 hours (indicating 24 hours has 
    now passed without being fed) the light will turn red. A callback function will be employed so that when ever the lid of the food container is opened (As sensed my
-   the Tilt Sensor) the light will be turned green, and thus a new 12 hour count down will begin. note - the light should never turn directly from green to red and the 
+   the Tilt Sensor) the light will be turned green, and thus a new 12 hour count down will begin. 
+   
+   Note - the light should never turn directly from green to red and the 
    callback function can turn the light to green in any light cycle, including green. A bouncetime parameter will be set to keep the sensor from being triggered more than
    once in a 30 second time frame.
   
