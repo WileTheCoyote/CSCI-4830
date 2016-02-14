@@ -14,7 +14,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
 
 **Preliminary Concept:**
 
-   	**We will need:**
+    **We will need:**
 
     Raspberry Pi	 	                       	- I will be using a Raspberry Pi 1 model B 
     3 LED Lights (each of a different color) 	- I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
