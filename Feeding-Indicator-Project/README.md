@@ -1,9 +1,9 @@
 # CSCI-4830
 1st Project for CSCI 4830
 
-Feeding Schedule Lights - "Lights that indicate whether your pet has been fed"
+_Feeding Schedule Lights - "Lights that indicate whether your pet has been fed"_
 
-Problem Description:
+**Problem Description:**
 
 https://vimeo.com/153738062?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749
 
