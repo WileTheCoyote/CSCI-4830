@@ -26,6 +26,8 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
     Project Box 								- A medium sized project box to enclose components 
     Power Source 								- Either a external battery pack or wall mount 
     Soldering Iron and Solder
+
+/var/folders/cs/_7ffbxg93vs90ms1qt4l8ldm0000gp/T/com.apple.Preview/com.apple.Preview.PasteboardItems/IMG_0328.jpg
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
    has just eaten; the light will eventually turn orange, indicating the dog has now gone 12 hours without being fed. After another 12 hours (indicating 24 hours has 
@@ -46,3 +48,4 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
     Could attach a speaker to siren after light has been red for 12 hours
     Could attach WiFi dongle to send text alert for similar circumstance
    
+
