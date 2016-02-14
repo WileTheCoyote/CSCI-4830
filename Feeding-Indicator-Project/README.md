@@ -17,14 +17,14 @@ Preliminary Concept:
    We will need:
 
     Raspberry Pi                                                 - I will be using a Raspberry Pi 1 model B 
-    3 LED Lights (each of a different color)        - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
-   <br /> Breadboard                                                   - to experiment with the circuit design
-   <br />1 330ohm resistor                                         - I used 3 1000ohm in parallel 
-   <br />Tilt Sensor                                                     - I used a LinkSprite Tile Module 
-   <br /> Jumper Lead Wires                                       - I used both female to male and male to male 
-   <br /> Small ProtoBoard                                          - For final circuit design 
-   <br /> Project Box                                                    - A medium sized project box to enclose components 
-   <br /> Power Source                                                - Either a external battery pack or wall mount 
+    3 LED Lights (each of a different color)         - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
+    Breadboard                                                    - to experiment with the circuit design
+    1 330ohm resistor                                          - I used 3 1000ohm in parallel 
+    Tilt Sensor                                                      - I used a LinkSprite Tile Module 
+    Jumper Lead Wires                                        - I used both female to male and male to male 
+    Small ProtoBoard                                           - For final circuit design 
+    Project Box                                                     - A medium sized project box to enclose components 
+    Power Source                                                 - Either a external battery pack or wall mount 
    
    The Raspberry Pi (in my case running Raspbian) will run a small python script that will cycle through each light cycle. Lets say the light is green because the dog 
    has just eaten; the light will eventually turn orange, indicating the dog has now gone 12 hours without being fed. After another 12 hours (indicating 24 hours has 
@@ -33,11 +33,11 @@ Preliminary Concept:
    callback function can turn the light to green in any light cycle, including green. A bouncetime parameter will be set to keep the sensor from being triggered more than
    once in a 30 second time frame.
   
-   Green - Dog is happy - "Has just recently been fed"
-   <br /> Orange - Dog is hungry - "Has not been fed for 12 hours"
-   <br /> Red - Dog is Starving - " Has not been fed for 24 hours"
+    Green - Dog is happy - "Has just recently been fed"
+    Orange - Dog is hungry - "Has not been fed for 12 hours"
+    Red - Dog is Starving - " Has not been fed for 24 hours"
 
 Possible Extra Features:
-   <br /> Could attach a speaker to siren after light has been red for 12 hours
-   <br /> Could attach WiFi dongle to send text alert for similar circumstance
+    Could attach a speaker to siren after light has been red for 12 hours
+    Could attach WiFi dongle to send text alert for similar circumstance
    
