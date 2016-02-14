@@ -16,7 +16,7 @@ Preliminary Concept:
 
    We will need:
 
-   <br /> Raspberry Pi                                                 - I will be using a Raspberry Pi 1 model B 
+    Raspberry Pi                                                 - I will be using a Raspberry Pi 1 model B 
    <br /> 3 LED Lights (each of a different color)        - I used 3 10mm gumdrop LEDs (Green, Red, and Orange) 
    <br /> Breadboard                                                   - to experiment with the circuit design
    <br /> 1 330ohm resistor                                         - I used 3 1000ohm in parallel 
@@ -32,13 +32,12 @@ Preliminary Concept:
    the Tilt Sensor) the light will be turned green, and thus a new 12 hour count down will begin. note - the light should never turn directly from green to red and the 
    callback function can turn the light to green in any light cycle, including green. A bouncetime parameter will be set to keep the sensor from being triggered more than
    once in a 30 second time frame.
-   <br />
+  
    <br /> Green - Dog is happy - "Has just recently been fed"
    <br /> Orange - Dog is hungry - "Has not been fed for 12 hours"
    <br /> Red - Dog is Starving - " Has not been fed for 24 hours"
 
-<br /> Possible Extra Features:
-   <br />
+Possible Extra Features:
    <br /> Could attach a speaker to siren after light has been red for 12 hours
    <br /> Could attach WiFi dongle to send text alert for similar circumstance
    
