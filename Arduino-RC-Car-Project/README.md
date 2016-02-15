@@ -12,14 +12,14 @@ wireless remote (PS2 OR XBOX controller).
 **Concept:**
     We will need:
     
-    RC Car 					- I have a Maisto Rock Crawler (4WD, 2 DC motors for front and back throttle, and 1 Servo for steering)
-    Arduino 				- I will be using a Arduino Uno R3 
+    RC Car 						- I have a Maisto Rock Crawler (4WD, 2 DC motors for front and back throttle, and 1 Servo for steering)
+    Arduino 					- I will be using a Arduino Uno R3 
     Motor and Servo Shield 		- I will use an Adafruit motor shield v2 (For most RC Cars the shield must support 2 DC motors and a Servo)
-    Multimeter 				- To test voltages and find what wires are connected to what motors
+    Multimeter 					- To test voltages and find what wires are connected to what motors
     Jumper leads and Wires 		- Will need all sorts (Female/Male, Male/Male)
     Bluetooth Module 			- I will use an Xbee wire antenna (Not Pictured)
-    WiFi Dongle 			- For streaming of video, I have a WiPi wireless adapter
-    9V Battery 				- Can reconfigure battery pack onboard RC Car and/or use single 9v for testing purposes
+    WiFi Dongle 				- For streaming of video, I have a WiPi wireless adapter
+    9V Battery 					- Can reconfigure battery pack onboard RC Car and/or use single 9v for testing purposes
     Solder and Soldering Iron
     
 
