@@ -10,6 +10,7 @@ we have the car's motors/servos taking driving instructions from the Arduino we 
 wireless remote (PS2 OR XBOX controller). 
 
 **Concept:**
+    
     We will need:
     
     RC Car 						- I have a Maisto Rock Crawler (4WD, 2 DC motors for front and back throttle, and 1 Servo for steering)
