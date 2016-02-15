@@ -23,7 +23,7 @@ wireless remote (PS2 OR XBOX controller).
     9V Battery 					- Can reconfigure battery pack onboard RC Car and/or use single 9v for testing purposes
     Solder and Soldering Iron
     
-
+![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/ToolsAndComponents.jpg)
 
 
 **Expansive Options:**
