@@ -47,5 +47,7 @@ In my case our dog, Max, "should" get fed twice per day. But with a family of si
 
     Could attach a speaker to siren after light has been red for 12 hours
     Could attach WiFi dongle to send text alert for similar circumstance
+    Turn Lights off at night (don't waste LED life at night time between 11pm to 5am)
+    
    
 
