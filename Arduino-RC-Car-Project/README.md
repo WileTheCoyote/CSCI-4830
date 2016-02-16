@@ -30,6 +30,8 @@ with our multimeter; taking special attention to which wire does what and at wha
 We can cut the wires but it may help to immediately solder on a female head on one spliced side and a male head on the other (This way we can always re-assemble 
 the motors/servo wires to the stock circuit board and restore is designed functionality). 
 
+![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/RCcar.jpg)   
+
 Voltages:
 
     Forward = Approx. 9v
@@ -45,10 +47,10 @@ Circuit Board Map:
     M2 - 	= Right (Grey Lead)
     VCC		= Power (Red Lead)
     Gnd		= Ground (Black Lead)
+    Ant		= Antenna
+    A,B,C		= Radio Channels from controller
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
-
-
 
 **Expansive Options:**
 
