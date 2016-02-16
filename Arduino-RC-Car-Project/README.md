@@ -32,14 +32,14 @@ the motors/servo wires to the stock circuit board and restore is designed functi
 
 Voltages:
 
-    Forward ? 9v
-    Backwards ? 9v
-    Right ? 6v
-    Left ? 6v
+    Forward = Approx. 9v
+    Backwards = Approx. 9v
+    Right = Approx. 6v
+    Left = Approx. 6v
     
 Circuit Board Map:
     
-    M1+	= Forward (2 Black Leads)
+    M1+		= Forward (2 Black Leads)
     M1- 	= Backward (2 Red Leads
     M2 +	= Left (Purple Lead)
     M2 - 	= Right (Grey Lead)
