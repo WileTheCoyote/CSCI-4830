@@ -48,7 +48,7 @@ Circuit Board Map:
     VCC		= Power (Red Lead)
     Gnd		= Ground (Black Lead)
     Ant		= Antenna
-    A,B,C		= Radio Channels from controller
+    A,B,C	= Radio Channels from controller
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
 
