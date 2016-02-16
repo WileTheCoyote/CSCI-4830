@@ -34,10 +34,10 @@ the motors/servo wires to the stock circuit board and restore is designed functi
 
 Voltages:
 
-    Forward = Approx. 9v
-    Backwards = Approx. 9v
-    Right = Approx. 6v
-    Left = Approx. 6v
+    Forward 	= Approx. 9v
+    Backwards 	= Approx. 9v
+    Right 		= Approx. 6v
+    Left 		= Approx. 6v
     
 Circuit Board Map:
     
