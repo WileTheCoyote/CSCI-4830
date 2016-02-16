@@ -39,12 +39,12 @@ Voltages:
     
 Circuit Board Map:
     
-    M1+ 	= Forward
-    M1- 	= Backward
-    M2 +	= Left
-    M2 - 	= Right
-    VCC	= Power
-    Gnd	= Ground   
+    M1+	= Forward (2 Black Leads)
+    M1- 	= Backward (2 Red Leads
+    M2 +	= Left (Purple Lead)
+    M2 - 	= Right (Grey Lead)
+    VCC		= Power (Red Lead)
+    Gnd		= Ground (Black Lead)
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
 
