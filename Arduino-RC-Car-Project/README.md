@@ -25,6 +25,30 @@ wireless remote (PS2 OR XBOX controller).
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/ToolsAndComponents.jpg)
 
+First we remove the plastic body and any plastic cover shielding the stock circuit board and components. Once removed, we can now start probing around
+with our multimeter; taking special attention to which wire does what and at what voltage. After we have mapped what each wire does on the RC Car's Circuit Board, 
+We can cut the wires but it may help to immediately solder on a female head on one spliced side and a male head on the other (This way we can always re-assemble 
+the motors/servo wires to the stock circuit board and restore is designed functionality). 
+
+Voltages:
+
+    Forward ? 9v
+    Backwards ? 9v
+    Right ? 6v
+    Left ? 6v
+    
+Circuit Board Map:
+    
+    M1+ 	= Forward
+    M1- 	= Backward
+    M2 +	= Left
+    M2 - 	= Right
+    VCC	= Power
+    Gnd	= Ground   
+    
+![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
+
+
 
 **Expansive Options:**
 
