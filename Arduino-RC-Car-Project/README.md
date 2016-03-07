@@ -66,6 +66,7 @@ Circuit Board Map:
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
 
 Steps:
+
     Gather Materials & Disassemble RC Car
     Map Functionality of Circuit Board
     Cut and Splice Wires
