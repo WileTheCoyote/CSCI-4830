@@ -11,7 +11,7 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
 
 **Concept:**
     				
-    **Components:**
+**Components:**
 
     RC Car 							-We used: Maisto Rock Crawler (4WD)
     Arduino x2						-We used: Arduino Uno R3
@@ -25,7 +25,7 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     9V Battery Pack
     Female/Male & Male/Male Connector cables
     
-    **Tools:**
+**Tools:**
 
     Multimeter
     Soldering Iron
@@ -33,7 +33,7 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     Micro USB to USB cable
     USB cable type A/B
    
-    **Software:**
+**Software:**
 
     XCTU (For programming XBees)
     Arduino IDE
