@@ -65,6 +65,19 @@ Circuit Board Map:
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
 
+Steps:
+    Gather Materials & Disassemble RC Car
+    Map Functionality of Circuit Board
+    Cut and Splice Wires
+    Attach a Motor Shield / Load Test to Arduino 
+    Program two RF Modules (XBee's) to Communicate 
+    Attach one XBee to Your Arduino and one to Your Computer
+    Control RC Car from Your Computer 
+    Test the USB Shield and Connect to Xbox 360 Controller  
+    Move XBee to Our 2nd Arduino
+    Write Our Final Two Sketches 
+
+
 **Expansive Options:**
 
     - Add an onboard camera and wirelessly stream video to a phone or a controller mounted display
