@@ -8,8 +8,6 @@ Step By Step Instructable can be found here:  http://www.instructables.com/id/Ar
 **Base Project Description:**
 
 In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace it's stock circuit board with an Arduino Uno R3, Motor Shield, and XBee module. We will use another Arduino to collect and interpret data from an Xbox 360 controller; this Arduino will also have an XBee module, which will be sending instructions to its XBee pair (located on the Car).
-
-**Concept:**
     				
 **Components:**
 
