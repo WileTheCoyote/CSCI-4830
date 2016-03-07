@@ -3,7 +3,7 @@ Projects 2 for CSCI 4830
 
 **_Arduino RC Car Project - "An Arduino Controlled Maisto Rock Crawler"_**
 
-Step By Step Instructable can be found here:  
+Step By Step Instructable can be found here:  http://www.instructables.com/id/Arduino-Xbox-RC-Car-Hack-Maisto-Rock-Crawler/
 
 **Base Project Description:**
 
@@ -81,7 +81,7 @@ Circuit Board Map:
     10. Write Our Final Two Sketches 
 
 
-**Expansive Options:**
+**Other Expansive Options:**
 
     - Add an onboard camera and wirelessly stream video to a phone or a controller mounted display
     - Attach Microphone to pick up audio (Spying device) 
