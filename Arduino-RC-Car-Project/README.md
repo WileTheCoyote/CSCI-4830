@@ -5,23 +5,23 @@ Projects 2 for CSCI 4830
 
 **Base Project Description:**
 
-In this project I want to reverse engineer and disassemble an RC Car and replace it's stock onboard circuit board with an Arduino Uno R3 (and Motor Shield). Once
-we have the car's motors/servos taking driving instructions from the Arduino we will incorporate a Bluetooth Module (Xbee Wire Antenna) to communicate with a 
-wireless remote (PS2 OR XBOX controller). 
+In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace it's stock circuit board with an Arduino Uno R3, Motor Shield, and XBee module. We will use another Arduino to collect and interpret data from an Xbox 360 controller; this Arduino will also have an XBee module, which will be sending instructions to its XBee pair (located on the Car).
 
 **Concept:**
-    
-    We will need:
-    
-    RC Car 						- I have a Maisto Rock Crawler (4WD, 2 DC motors for front and back throttle, and 1 Servo for steering)
-    Arduino 					- I will be using a Arduino Uno R3 
-    Motor and Servo Shield 		- I will use an Adafruit motor shield v2 (For most RC Cars the shield must support 2 DC motors and a Servo)
-    Multimeter 					- To test voltages and find what wires are connected to what motors
-    Jumper leads and Wires 		- Will need all sorts (Female/Male, Male/Male)
-    Bluetooth Module 			- I will use an Xbee wire antenna (Not Pictured)
-    WiFi Dongle 				- For streaming of video, I have a WiPi wireless adapter
-    9V Battery 					- Can reconfigure battery pack onboard RC Car and/or use single 9v for testing purposes
-    Solder and Soldering Iron
+    				
+    Components:
+
+    RC Car 			-We used: Maisto Rock Crawler (4WD)
+    Arduino x2			- We used: Arduino Uno R3
+    Motor/Servo Shield 			-We used: Velleman VMA03
+    USB Host shield 			-We used: Circuits@Home USB Host shield 2.0
+    XBee RF Module x2		-We used: XBee 802.15.4) x2
+    XBee host shield x2		-We used: one Arduino Wireless SD shield & one Arduino XBee shield model 
+    XBee mini USB adaptor 			-i.e SparkFun XBee Explorer
+    Microsoft Xbox 360 wireless Receiver		-be sure to use Microsoft (No Third Party)
+    Xbox 360 Controller
+    9V Battery Pack
+    Female/Male & Male/Male Connector cables
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/ToolsAndComponents.jpg)
 
