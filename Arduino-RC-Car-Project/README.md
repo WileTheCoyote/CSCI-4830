@@ -11,13 +11,13 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     				
     Components:
 
-    RC Car 								-We used: Maisto Rock Crawler (4WD)
-    Arduino x2							-We used: Arduino Uno R3
-    Motor/Servo Shield 					-We used: Velleman VMA03
-    USB Host shield 					-We used: Circuits@Home USB Host shield 2.0
-    XBee RF Module x2					-We used: XBee 802.15.4) x2
-    XBee host shield x2					-We used: one Arduino Wireless SD shield & one Arduino XBee shield model 
-    XBee mini USB adaptor 				-i.e SparkFun XBee Explorer
+    RC Car 							-We used: Maisto Rock Crawler (4WD)
+    Arduino x2						-We used: Arduino Uno R3
+    Motor/Servo Shield 				-We used: Velleman VMA03
+    USB Host shield 				-We used: Circuits@Home USB Host shield 2.0
+    XBee RF Module x2				-We used: XBee 802.15.4) x2
+    XBee host shield x2				-We used: one Arduino Wireless SD shield & one Arduino XBee shield model 
+    XBee mini USB adaptor 			-i.e SparkFun XBee Explorer
     Xbox 360 wireless Receiver		-be sure to use Microsoft (No Third Party)
     Xbox 360 Controller
     9V Battery Pack
