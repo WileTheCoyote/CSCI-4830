@@ -3,13 +3,15 @@ Projects 2 for CSCI 4830
 
 **_Arduino RC Car Project - "An Arduino Controlled Maisto Rock Crawler"_**
 
+Step By Step Instructable can be found here:  
+
 **Base Project Description:**
 
 In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace it's stock circuit board with an Arduino Uno R3, Motor Shield, and XBee module. We will use another Arduino to collect and interpret data from an Xbox 360 controller; this Arduino will also have an XBee module, which will be sending instructions to its XBee pair (located on the Car).
 
 **Concept:**
     				
-    Components:
+    **Components:**
 
     RC Car 							-We used: Maisto Rock Crawler (4WD)
     Arduino x2						-We used: Arduino Uno R3
@@ -23,7 +25,7 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     9V Battery Pack
     Female/Male & Male/Male Connector cables
     
-    Tools:
+    **Tools:**
 
     Multimeter
     Soldering Iron
@@ -31,7 +33,7 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     Micro USB to USB cable
     USB cable type A/B
    
-    Software:
+    **Software:**
 
     XCTU (For programming XBees)
     Arduino IDE
@@ -65,18 +67,18 @@ Circuit Board Map:
     
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/StockCircuitBoard.jpg)   
 
-Steps:
+**Steps:** - Reference Instructables page for full detail 
 
-    Gather Materials & Disassemble RC Car
-    Map Functionality of Circuit Board
-    Cut and Splice Wires
-    Attach a Motor Shield / Load Test to Arduino 
-    Program two RF Modules (XBee's) to Communicate 
-    Attach one XBee to Your Arduino and one to Your Computer
-    Control RC Car from Your Computer 
-    Test the USB Shield and Connect to Xbox 360 Controller  
-    Move XBee to Our 2nd Arduino
-    Write Our Final Two Sketches 
+    1. Gather Materials & Disassemble RC Car
+    2. Map Functionality of Circuit Board
+    3. Cut and Splice Wires
+    4. Attach a Motor Shield / Load Test to Arduino 
+    5. Program two RF Modules (XBee's) to Communicate 
+    6. Attach one XBee to Your Arduino and one to Your Computer
+    7. Control RC Car from Your Computer 
+    8. Test the USB Shield and Connect to Xbox 360 Controller  
+    9. Move XBee to Our 2nd Arduino
+    10. Write Our Final Two Sketches 
 
 
 **Expansive Options:**
