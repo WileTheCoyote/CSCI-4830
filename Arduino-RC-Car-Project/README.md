@@ -55,11 +55,11 @@ Circuit Board Map:
 **Expansive Options:**
 
     - Add an onboard camera and wirelessly stream video to a phone or a controller mounted display
-    - Attach Microphone to pick up audio (Spying device)  
-    - Communicate with motors/servos via web server hosted on device, allowing a phone to operate the car
+    - Attach Microphone to pick up audio (Spying device) 
+    - Communicate with motors/servos via web server hosted on device, allowing a phone to operate the car  
     - Add some autonomous features for obstacle avoidance (i.e Sonar, GPS technology) 
-    - Add Speaker to communicate with people around the RC Car
-    - Send and process video for use by a virtual reality headset
+    - Add Speaker to communicate with people around the RC Car 
+    - Send and process video for use by a virtual reality headset 
     
 
 

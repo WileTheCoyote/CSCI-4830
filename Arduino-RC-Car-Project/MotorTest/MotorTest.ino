@@ -9,7 +9,7 @@ Arduino Servo Test sketch
 
 void setup()
 {
-  motor4.setSpeed(180); // Set Speed of Direction Motor - Voltage
+  motor4.setSpeed(255); // Set Speed of Direction Motor - Voltage
   motor1.setSpeed(255); // Set Speed of Throttle Motor
    
 }
