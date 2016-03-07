@@ -23,6 +23,19 @@ In this project we are going to hack an RC Car (Maisto Rock Crawler) and replace
     9V Battery Pack
     Female/Male & Male/Male Connector cables
     
+    Tools:
+
+    Multimeter
+    Soldering Iron
+    Solder
+    Micro USB to USB cable
+    USB cable type A/B
+   
+    Software:
+
+    XCTU (For programming XBees)
+    Arduino IDE
+    
 ![ScreenShot](https://github.com/WileTheCoyote/CSCI-4830/blob/master/Arduino-RC-Car-Project/ToolsAndComponents.jpg)
 
 First we remove the plastic body and any plastic cover shielding the stock circuit board and components. Once removed, we can now start probing around
