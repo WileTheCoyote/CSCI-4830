@@ -88,6 +88,10 @@ Circuit Board Map:
     - Add Speaker to communicate with people around the RC Car 
     - Send and process video for use by a virtual reality headset 
     
+**References:**
+
+"Arduino - Getting Started." Arduino - Getting Started. N.p., n.d. Web. 02 Mar. 2016. <https://www.arduino.cc/en/Guide/HomePage>."Legend." Arduino Playground. N.p., n.d. Web. 02 Mar. 2016. <http://playground.arduino.cc/Main/ShieldPinUsage>."Exploring XBees and XCTU." Exploring XBees and XCTU. N.p., n.d. Web. 03 Mar. 2016. <https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu>."Driving an RC Car with a PS3 Controller." Barretts Projects. N.p., 13 Jan. 2013. Web. 02 Mar. 2016. <https://barrettsprojects.wordpress.com/2013/01/13/driving-an-rc-car-with-a-ps3-controller/>."Felis/USB_Host_Shield_2.0." GitHub. N.p., n.d. Web. 02 Mar. 2016. <https://github.com/felis/USB_Host_Shield_2.0>."Arduino and Xbee Wireless Setup (Video 1)." YouTube. YouTube, n.d. Web. 03 Mar. 2016. <https://www.youtube.com/watch?v=WTnC1bHoaDM>."Arduino - RC Car Hacked Together Tutorial." YouTube. YouTube, n.d. Web. 03 Mar. 2016. <https://www.youtube.com/watch?v=iRIgvX2Q2x8>.
+    
 
 
 
