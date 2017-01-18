@@ -10,7 +10,7 @@ https://vimeo.com/153738062?utm_source=email&utm_medium=vimeo-cliptranscode-2015
 In this project I have developed a solution to the common problem of being unaware whether your pet has been fed.
 i.e. Many people often feed their dog one or two times per day. Some have more proven systems that make sure the dog has not been fed by more than one person but often large families have systems that are far less than perfect. When push comes to shove most people will simply feed the dog out of fear that he or she has not eaten. Or perhaps one will wrongly assume they have already eaten.
 
-In my case our dog, Max, "should" get fed twice per day. But with a family of six, he inevitably gets fed more or sometimes less. 
+In my case, my dog Max, "should" get fed twice per day. But with a large family, he inevitably gets fed more or sometimes less. 
 
 **Preliminary Concept:**
 
